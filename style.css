@@ -1,0 +1,169 @@
+body{
+	margin:0px;
+	padding:0px;
+	background-color:red;
+}
+.top{
+	width:100%;
+	height:40px;
+	background-color:#007BFF;
+	position:absolute;
+	left:0px;
+	line-height:40px;
+}
+.top p{
+	line-height:40px;
+}
+.nav-item{
+	margin-top:20px;
+	
+}
+ .box-area{ 
+     width: 100%; 
+    border: 1px solid #FFD900; 
+    display: inline-block; 
+	 float:left; 
+	 margin-top:30px; 
+} 
+p a{
+	display:black;
+	background-color:#002A54;
+	padding:7px;
+}
+p a:hover{
+	
+	background-color:#FDB813;
+	text-decoration: none;
+}
+.text-center{
+	float:left;
+}
+.icons{
+	padding-bottom:20px;
+}
+.full-width{
+	width:100%;
+	height:365px;
+	background-color:#002A54;
+	margin-top:610px;
+	position:absolute;
+	left:0px;
+}
+.full-width img{
+	margin-left:50px;
+	margin-top:20px;
+}
+.previus{
+	font-size:40px;
+}
+.next{
+	font-size:40px;
+}
+.np{
+	margin-left:1060px;
+}
+.img-responsive{
+	margin-left:40px;
+	position:middle;
+	border-radius:100px;
+}
+.items{
+	
+	float:left;
+	margin:0px auto;
+   
+}
+.box-content a{
+	width:120px;
+	height:auto;
+	padding:10px;
+	display:block;
+	background:#000000;
+}
+.box-content a:hover{
+	
+	background:#007BFF;
+	list-style-type:none;
+}
+.pull-right{
+	float:right;
+	color:#007BFF;
+}.featured-block{
+	background: #007BFF;
+	padding: 50px;
+	color: #FFF;
+	overflow: hidden;
+    margin: 0px -15px;
+	}
+.featured-block h3{
+	color: #FFF;
+	font-size: 18px;
+	padding-bottom: 10px;
+    line-height: 25px;
+	}
+.featured-block p{
+	font-size: 15px;
+	}
+.featured-block p>a{
+	color:#FFF;
+	}
+.featured-block p>a:hover{
+	color: #FFF;
+	}
+.featured-block ul{
+	margin-top: 30px;
+	}
+.featured-block ul>li{
+	line-height: 2em;
+	}
+.featured-block ul>li>a{
+	color: #FFF;
+	}
+.featured-block ul>li>a:hover{
+	color: red;
+	text-decoration: none;
+	}
+.border-btm{
+	border-bottom: 1px solid #DD413E;
+	}
+.marTop{
+	margin-top: 30px;
+	}
+.marBot{
+	margin-bottom: 30px;
+	}
+.copy-rights{
+	background-color: #555;
+	color: rgb(136, 219, 239);
+	overflow: hidden;
+	padding: 20px;
+	margin:;
+	height:80px;
+	}
+.copy-rights p{
+	margin-left: 800px;
+	}
+
+.inner-content{
+	border-bottom: 7px solid #FFF;
+	padding: 30px 0px;
+	}
+.inner-title{
+	display: inline-block;
+	}
+.inner-title h2{
+	font-size: 22px;
+	line-height: 22px;
+	}
+.inner-links{
+	float: right;
+	}
+.desc{
+	padding: 20px 0px;
+border-bottom: 1px solid #FFF;
+}
+.main-content{
+	padding:0px 35px;
+	}
+ section p{font-size: 12px;}
+ section ul>li{font-size: 13px; line-height: 28px;}
