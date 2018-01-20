@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+	<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+<title> My Projects</title>
+
+<head>
+ <link rel="shortcut icon" href="img/fav.png" type="image/x-icon">
+<link href="style.css" rel = "stylesheet" type = "text/css">
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css">
+
+<!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+<!-- Popper JS -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.6/umd/popper.min.js"></script>
+
+<!-- Latest compiled JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js"></script>
+</head>
+<body>
+	
+	<div class="container">
+	<div class="top">
+		<!-- <marquee><p style="color:white;font-size:18px;float:left;"><strong>Email Us:</strong>avn@yahoo.com</p>
+					<p style="color:white;font-size:18px;margin-left:20px;"><strong>Contact no: </strong>&#x260F;+91 906 606 7578</p></marquee> -->
+				
+		</div><br/><br/>
+		<img style="float:left;height:100px;width:auto;" src="img/logo2.png">
+		<ul class="nav nav-pills justify-content-end">
+			  <li class="nav-item">
+				<a class="nav-link active" href="#">HOME</a>
+			  </li>
+			  <li class="nav-item dropdown">
+				<a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">ABOUT US</a>
+				<div class="dropdown-menu">
+				  <a class="dropdown-item" href="#">Action</a>
+				  <a class="dropdown-item" href="#">Another action</a>
+				  <a class="dropdown-item" href="#">Something else here</a>
+				  <div class="dropdown-divider"></div>
+				  <a class="dropdown-item" href="#">Separated link</a>
+				</div>
+			  </li>
+			  <li class="nav-item">
+				<a class="nav-link" href="#">SERVICES</a>
+			  </li>
+			  <li class="nav-item">
+				<a class="nav-link" href="#">PORTFOLIO</a>
+			  </li>
+			  <li class="nav-item">
+				<a class="nav-link" href="#">FEEDBACK</a>
+			  </li>
+			  <li class="nav-item">
+				<a class="nav-link" href="formvalid.html">CONTACT</a>
+			  </li>
+		</ul>
+		
+	</div><br/><br/>
+	<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+  <ol class="carousel-indicators">
+    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+  </ol>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img class="d-block w-100" src="img/manju.png" alt="First slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="img/manju1.png" alt="Second slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="img/manju2.png" alt="Third slide">
+    </div>
+	<div class="carousel-item">
+      <img class="d-block w-100" src="img/manju3.png" alt="Third slide">
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+	<div class="container">
+		<h1 style="text-align:center;margin-top:20px;color:#002A54;">What We Have Done</h1>
+		<p style="text-align:center;"><strong>TO SERVE HUMANITY IS TO SERVE GOD OR IMPORTANCE OF SOCIAL WORK.</strong><br>
+			A man lives for himself. He thinks and acts to make his own self secure, comfortable and happy. His natural instinct of self-preservation makes him behavior this way. But he becomes truly human only when he tries to make others secure, comfortable and happy. To go beyond one’s own self and serve others is social service. Such statements as<strong>“To serve humanity is to serve God” </strong>and <strong>“Service before Self”,</strong> bring out the importance of social service.</p>
+			<div class="items col-xs-4 col-sm-4 col-md-4 col-lg-4">
+			
+               <img class="img-responsive" src="img/img01.png" alt="">   
+                <h4 style="color:#007BFF;">Ananthapur <span class="price pull-right">$230</span></h4>
+				<p style="text-align:justify"><strong>Ramagiri, Nasanakota, 8 days</strong>  <br/>
+                This seems easy enough, but it is actually much harder than you suspect. While working in my first grade classroom during my first year of teaching, there was a little boy in our grade-level whose father was in jail and whose mother was an alcoholic.</p>  
+             	<!-- <a href="#">See More</a> -->
+            </div>
+            
+			<div class="items col-xs-4 col-sm-4 col-md-4 col-lg-4">
+			
+               <img class="img-responsive" src="img/img02.png" alt="">   
+                <h4 style="color:#007BFF;">RayDhurgam <span class="price pull-right">$930</span></h4>
+				<p style="text-align:justify"><strong>Ramagiri, Peruru, 10 days</strong>  <br/>
+              Many students in generational poverty have a limited amount of experiences. Their schema has not developed enough for educators to truly build upon their prior knowledge. Most of the students living in this environment may not have ever left their county or town.</p>  
+             	<!-- <a href="#">See More</a> -->
+            </div>
+            
+			<div class="items col-xs-4 col-sm-4 col-md-4 col-lg-4">
+			
+               <img class="img-responsive" src="img/img03.png" alt="">   
+                <h4 style="color:#007BFF;">Athmakur <span class="price pull-right">$530</span></h4>
+				<p style="text-align:justify"><strong>Ramagiri, Kuntimaddi,  12 days</strong>  <br/>
+                Praise is key to any relationship with a child. Students want you to recognize both their small and big successes. Too many times these students hear from others about all of the things they do not have. This negatively effects their self-esteem.This negatively effects.</p>  
+             	<!-- <a href="#">See More</a> -->
+            </div>
+            
+			<div class="items col-xs-4 col-sm-4 col-md-4 col-lg-4">
+			
+               <img class="img-responsive" src="img/img04.png" alt="">   
+                <h4 style="color:#007BFF;">Dhramavaram <span class="price pull-right">$430</span></h4>
+				<p style="text-align:justify"><strong>Ramagiri, Ramagiri, 15 days</strong>  <br/>
+                We all wish that we lived in a place where parents fully supplied our classrooms and that our district gave us every piece of equipment we needed. However, this dream is not a reality in most districts. Each time you ask for money.Belive their confident levels.</p>  
+             	<!-- <a href="#">See More</a> -->
+            </div>
+            
+			<div class="items col-xs-4 col-sm-4 col-md-4 col-lg-4">
+			
+               <img class="img-responsive" src="img/img05.png" alt="">   
+                <h4 style="color:#007BFF;">Puttaparti <span class="price pull-right">$230</span></h4>
+				<p style="text-align:justify"><strong>Ramagiri, Kothapalli,6 days</strong>  <br/>
+                Do not insult your students by watering down the curriculum. The students are poor, not ignorant. By keeping high expectations, you reinforce to the students that you believe in their abilities. You give them the chance to show-off what they can do.</p>  
+             	<!-- <a href="#">See More</a> -->
+            </div>
+           
+			<div class="items col-xs-4 col-sm-4 col-md-4 col-lg-4">
+			
+               <img class="img-responsive" src="img/img06.png" alt="">   
+                <h4 style="color:#007BFF;">Gorantla <span class="price pull-right">$230</span></h4>
+				<p style="text-align:justify"><strong>Ramagiri, Garimekalpalli, 7 days</strong> <br/>
+				Many times parents would rather give money than send in supplies with their students anyway. This allows those parents who can donate to contribute to the classroom, while not making it obvious that some students did not bring in their classroom supplies.</p>  
+             	<!-- <a href="#">See More</a> -->
+            </div>
+           
+			<div class="items col-xs-4 col-sm-4 col-md-4 col-lg-4">
+			
+               <img class="img-responsive" src="img/img07.png" alt="">   
+                <h4 style="color:#007BFF;">Penukonda <span class="price pull-right">$230</span></h4>
+				 <p style="text-align:justify"><strong>Ramagiri, Gangampalli, 9 days</strong>  <br/>
+               This seems easy enough, but it is actually much harder than you suspect. While working in my first grade classroom during my first year of teaching, there was a little boy in our grade-level whose father was in jail and whose mother was an alcoholic.Much harder than you suspect.This seems easy enough</p>  </p>  
+             	<!-- <a href="#">See More</a> -->
+            </div>
+            
+			<div class="items col-xs-4 col-sm-4 col-md-4 col-lg-4">
+			
+               <img class="img-responsive" src="img/img08.png" alt="">   
+                <h4 style="color:#007BFF;">Rapthadu <span class="price pull-right">$330</span></h4>
+				<p style="text-align:justify"><strong>Ramagiri, Polepalli, 10 days</strong>  <br/>
+                 Stop making excuses for why it can not be done and make it happen. The students in your classroom will only remember a portion of the content you taught them, but they will remember every bit of the field trips or special experiences you exposed them to."I love how expressively you read that passage." </p>  
+             	<!-- <a href="#">See More</a> -->
+            </div>
+         
+			<div class="items col-xl-4 col-sm-4 col-md-4 col-lg-4">
+			
+               <img class="img-responsive" src="img/img09.png" alt="">   
+                <h4 style="color:#007BFF;">Madakasira <span class="price pull-right">$730</span></h4>
+				<p style="text-align:justify"><strong>Ramagiri,NSgate, Totally 14 days</strong>  <br/>
+                Children who live in generational poverty do come to us with their own set of issues and bad experiences, but it is our job as educators to make their school experience a positive one. You can still have a consistent grasp on discipline,but just make sure that love is a factor when you are trying to help..</p>  
+             	<!-- <a href="#">See More</a> -->
+            </div>
+            
+	</div><br/><br/>
+	<div class="container">
+ 		<footer>
+	 		<div class="featured-block">
+	 			<div class="row">
+	 				<div class="col-xs-3">
+	 					<h3>About AVN</h3>
+	 					<p>the organization has endeavoured to improve the quality of life of the rural poor, with a particular emphasis on women, children and people with disabilities. It has progressively implemented comprehensive development programmes involving all areas of development.</p>
+	 				</div>
+	 				<div class="col-xs-3">
+	 					<h3 style="margin-left:25px;"class="border-btm">LOCATIONS</h3>
+	 					<ul>
+	 						<li><a href="#">Abhudaya Vidyarthi Nilayam ATP</a></li>
+	 						<li><a href="#">Abhudaya Vidyarthi Nilayam DMM</a></li>
+	 						<li><a href="#">Abhudaya Vidyarthi Nilayam PPT</a></li>
+	 						<li><a href="#">Abhudaya Vidyarthi Nilayam TDP</a></li>
+	 						<li><a href="#"> Abhudaya Vidyarthi Nilayam RDM</a></li>
+	 					</ul>
+	 				</div>
+	 				<div class="col-xs-3">
+	 					<h3 style="margin-left:25px;"class="border-btm">SERVICES</h3>
+	 					<ul>
+	 						<li><a href="#">Free computer Courses</a></li>
+	 						<li><a href="#">Free Education Till Degree </a></li>
+	 						<li><a href="#">Free uniforms Till Degree </a></li>
+	 						<li><a href="#">Free BookSTill Degree </a></li>
+	 						<li><a href="#">Free Vocational Courses</a></li>
+	 					</ul>
+	 				</div>
+	 				<div class="col-xs-3">
+	 					<h3 style="margin-left:25px;"class="border-btm">GET IN TOUCH</h3>
+	 					<p style="margin-left:25px;"class="marTop">Address: 2nd Floor, Near Tower clock,<br>
+						Ananthapur, AndraPradesh</p>
+						<p style="margin-left:25px;">Phone : 040-22746689</p>
+						<p style="margin-left:25px;">Email : <a href="#">avn@info.in</a></p>
+	 				</div>
+	 			</div>
+	 	</div>
+	 	</div>
+		<div class="container-fluid">
+	 	<div style="width:100%;height:60px;position:absolute;left:0px;"class="copy-rights">
+	 		<div class="">
+	 			<div class="row">
+	 			<div class="col-xs-3">
+	 				<p style="margin-left:20px">© 2016 © 2014 Abhudaya Vidyarthi Nilayam | Free Education Organization for Poor Students.  </p>
+	 			</div>
+	 			</div>
+	 		</div>
+	 	</div>
+ 	 </footer>
+ 	</div>
+</body>
+</html>               
